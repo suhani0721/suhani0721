@@ -9,13 +9,6 @@ Building AI-powered applications using <b>LLMs</b>, <b>RAG</b>, <b>LangGraph</b>
 Interested in Intelligent Systems, Agentic AI, and Software Engineering.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views"/>
-  <img src="https://img.shields.io/badge/Python-Developer-blue?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20to-Internships-orange?style=flat-square" />
-</p>
-
 ---
 
 # 👩‍💻 About Me
