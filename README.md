@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Suhani Katighara</h1>
-
-<h3 align="center">
-B.Tech CSE Student @ IIIT Kota | AI/ML Developer
-</h3>
+```markdown
+<h2 align="center">Hi 👋, I'm Suhani Katighara</h2>
 
 <p align="center">
-Building AI-powered applications using <b>LLMs</b>, <b>RAG</b>, <b>LangGraph</b>, and <b>Machine Learning</b>.<br>
-Interested in Intelligent Systems, Agentic AI, and Software Engineering.
+<b>B.Tech CSE Student @ IIIT Kota</b><br>
+AI/ML Developer • LLMs • RAG • LangGraph • Software Engineering
+</p>
+
+<p align="center">
+Building AI-powered applications using Large Language Models, Retrieval-Augmented Generation (RAG), LangGraph, and Machine Learning.
 </p>
 
 ---
@@ -14,11 +15,11 @@ Interested in Intelligent Systems, Agentic AI, and Software Engineering.
 # 👩‍💻 About Me
 
 - 🎓 B.Tech Computer Science student at **IIIT Kota**
-- 🤖 Building AI applications using **LLMs, RAG, LangChain, and LangGraph**
-- 💡 Interested in **Machine Learning, Agentic AI, and Intelligent Software Systems**
-- 💻 Enjoy solving algorithmic problems and developing real-world AI solutions
-- 🌱 Currently strengthening my knowledge in **Data Structures & Algorithms**
-- 🚀 Actively seeking opportunities to learn, collaborate, and grow as a Software Engineer
+- 🤖 Interested in **Artificial Intelligence, Machine Learning, and Intelligent Systems**
+- 🧠 Building AI applications using **LLMs, RAG, LangChain, and LangGraph**
+- 💻 Passionate about solving real-world problems through software engineering and AI
+- 📚 Currently strengthening my knowledge in **Data Structures & Algorithms**
+- 🚀 Open to Software Engineering and AI/ML internship opportunities
 
 ---
 
@@ -35,7 +36,7 @@ Interested in Intelligent Systems, Agentic AI, and Software Engineering.
 
 # 🛠️ Tech Stack
 
-## Languages
+### Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -43,7 +44,7 @@ Interested in Intelligent Systems, Agentic AI, and Software Engineering.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-## AI & Machine Learning
+### AI & Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
@@ -53,13 +54,13 @@ Interested in Intelligent Systems, Agentic AI, and Software Engineering.
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
-## Database
+### Database
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-## Tools
+### Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -74,64 +75,34 @@ Interested in Intelligent Systems, Agentic AI, and Software Engineering.
 
 ## 🌱 NexGen Farming
 
-An AI-powered smart agriculture platform that provides crop recommendations and intelligent farming insights.
+An AI-powered smart agriculture platform that leverages machine learning to provide crop recommendations and intelligent farming insights.
 
 **Tech Stack:** Python • Machine Learning • MongoDB
 
 **Highlights**
-- Crop recommendation system
-- Intelligent farming insights
+- Intelligent crop recommendation system
+- Data-driven farming insights
 - AI-assisted agricultural decision support
 
 ---
 
 ## 🏆 ArenaPulse
 
-An AI-powered sports analytics platform that extracts meaningful insights from player and team performance data.
+An AI-powered sports analytics platform that extracts meaningful insights from player and team performance while generating AI-assisted sports content.
 
-**Tech Stack:** Flask • LangGraph • LLMs • MongoDB • Python
+**Tech Stack:** Python • Flask • LangGraph • LLMs • MongoDB
 
 **Highlights**
 - AI-driven sports analytics
 - Automated sports news generation
-- Intelligent information retrieval
-
----
-
-## 📅 Task Time Calendar
-
-A productivity application for organizing tasks, schedules, and daily activities efficiently.
-
-**Tech Stack:** JavaScript
-
-**Highlights**
-- Task organization
-- Calendar management
-- Productivity-focused interface
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact"/>
-</p>
+- Intelligent information retrieval pipeline
 
 ---
 
 # 📫 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/suhani-katighara/" target="blank">
+<a href="https://www.linkedin.com/in/suhani-katighara/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -139,3 +110,4 @@ A productivity application for organizing tasks, schedules, and daily activities
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
+```
