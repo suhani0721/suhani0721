@@ -9,11 +9,6 @@ AI/ML Developer • LLMs • RAG • LangGraph • Software Engineering
 Building AI-powered applications using Large Language Models, Retrieval-Augmented Generation (RAG), LangGraph, and Machine Learning.
 </p>
 
-<p align="center">
-<a href="https://github.com/suhani0721">GitHub</a> •
-<a href="https://www.linkedin.com/in/suhani-katighara/">LinkedIn</a> •
-<a href="mailto:emails.suhani@gmail.com">Email</a>
-</p>
 ---
 
 ### 👩‍💻 About Me
