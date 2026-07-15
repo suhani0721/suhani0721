@@ -1,5 +1,4 @@
-
-<h2 align="center">Hi 👋, I'm Suhani Katighara</h2>
+<h3 align="center">Hi 👋, I'm Suhani Katighara</h3>
 
 <p align="center">
 <b>B.Tech CSE Student @ IIIT Kota</b><br>
@@ -10,9 +9,14 @@ AI/ML Developer • LLMs • RAG • LangGraph • Software Engineering
 Building AI-powered applications using Large Language Models, Retrieval-Augmented Generation (RAG), LangGraph, and Machine Learning.
 </p>
 
+<p align="center">
+<a href="https://github.com/suhani0721">GitHub</a> •
+<a href="https://www.linkedin.com/in/suhani-katighara/">LinkedIn</a> •
+<a href="mailto:emails.suhani@gmail.com">Email</a>
+</p>
 ---
 
-# 👩‍💻 About Me
+### 👩‍💻 About Me
 
 - 🎓 B.Tech Computer Science student at **IIIT Kota**
 - 🤖 Interested in **Artificial Intelligence, Machine Learning, and Intelligent Systems**
@@ -23,7 +27,7 @@ Building AI-powered applications using Large Language Models, Retrieval-Augmente
 
 ---
 
-# 🚀 Current Focus
+### 🚀 Current Focus
 
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
@@ -34,9 +38,9 @@ Building AI-powered applications using Large Language Models, Retrieval-Augmente
 
 ---
 
-# 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### Languages
+#### Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -44,7 +48,7 @@ Building AI-powered applications using Large Language Models, Retrieval-Augmente
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### AI & Machine Learning
+#### AI & Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
@@ -54,13 +58,13 @@ Building AI-powered applications using Large Language Models, Retrieval-Augmente
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
-### Database
+#### Database
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### Tools
+#### Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -71,9 +75,9 @@ Building AI-powered applications using Large Language Models, Retrieval-Augmente
 
 ---
 
-# 📌 Featured Projects
+### 📌 Featured Projects
 
-## 🌱 NexGen Farming
+#### 🌱 NexGen Farming
 
 An AI-powered smart agriculture platform that leverages machine learning to provide crop recommendations and intelligent farming insights.
 
@@ -86,7 +90,7 @@ An AI-powered smart agriculture platform that leverages machine learning to prov
 
 ---
 
-## 🏆 ArenaPulse
+#### 🏆 ArenaPulse
 
 An AI-powered sports analytics platform that extracts meaningful insights from player and team performance while generating AI-assisted sports content.
 
@@ -99,7 +103,7 @@ An AI-powered sports analytics platform that extracts meaningful insights from p
 
 ---
 
-# 📫 Connect With Me
+### 📫 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/suhani-katighara/" target="_blank">
@@ -110,4 +114,3 @@ An AI-powered sports analytics platform that extracts meaningful insights from p
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
-```
