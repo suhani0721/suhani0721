@@ -1,4 +1,4 @@
-```markdown
+
 <h2 align="center">Hi 👋, I'm Suhani Katighara</h2>
 
 <p align="center">
